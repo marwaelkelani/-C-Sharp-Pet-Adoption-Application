@@ -1,0 +1,14 @@
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/bin/Debug/net7.0/Pet-Adoption-Application
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/bin/Debug/net7.0/Pet-Adoption-Application.deps.json
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/bin/Debug/net7.0/Pet-Adoption-Application.runtimeconfig.json
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/bin/Debug/net7.0/Pet-Adoption-Application.dll
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/bin/Debug/net7.0/Pet-Adoption-Application.pdb
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/obj/Debug/net7.0/Pet-Adoption-Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/obj/Debug/net7.0/Pet-Adoption-Application.AssemblyInfoInputs.cache
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/obj/Debug/net7.0/Pet-Adoption-Application.AssemblyInfo.cs
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/obj/Debug/net7.0/Pet-Adoption-Application.csproj.CoreCompileInputs.cache
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/obj/Debug/net7.0/Pet-Adoption-Application.dll
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/obj/Debug/net7.0/refint/Pet-Adoption-Application.dll
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/obj/Debug/net7.0/Pet-Adoption-Application.pdb
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/obj/Debug/net7.0/Pet-Adoption-Application.genruntimeconfig.cache
+/Users/marski/Desktop/Coding Projects/Pet-Adoption-Application/obj/Debug/net7.0/ref/Pet-Adoption-Application.dll
